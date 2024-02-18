@@ -1,3 +1,3 @@
-def upper_text(str):
-    """Эта функция делает верхний регистр для каждой буквы!!!"""
-    return str.upper()
+def upper_text(string):
+    """Эта делает верхний регистр для каждой буквы!!!"""
+    return string.upper()
