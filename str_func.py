@@ -3,5 +3,5 @@ def upper_text(str):
     return str.upper()
 
 def title_text(str):
-    """here we did not conflict"""
+    """here we did conflict again"""
     return str.title()
